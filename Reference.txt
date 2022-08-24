@@ -1,0 +1,7 @@
+Resources:
+
+Typing words: https://readme-typing-svg.herokuapp.com/demo/
+
+Dash board: https://github.com/anuraghazra/github-readme-stats
+
+Profile view's counter: https://github.com/antonkomarev/github-profile-views-counter
