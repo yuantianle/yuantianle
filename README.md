@@ -3,8 +3,6 @@
 
 [![Tianle Yuan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=yuantianle&show_icons=true&theme=vision-friendly-dark&bg_color=20,2D2D2D,3B3652,5D4CAA)](http://yuantianle.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuantianle&layout=compact)
-
 **Languages and Tools:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
