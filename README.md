@@ -23,5 +23,5 @@
 <code><img src="/Svg/icons8-bash.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/icons8-opencv.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/icons8-qt.svg" alt="bash" width="30" height="40"/></code>
-<code><img src="/Svg/icons8-opengl.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/opengl-blue.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/icons8-webgl.svg" alt="bash" width="30" height="40"/></code>
