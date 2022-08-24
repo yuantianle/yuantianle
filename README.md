@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&pause=1000&color=046C90&width=520&lines=Hi+there!+%F0%9F%98%8E+This+is+Tianle+Yuan's+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri+30+bold&pause=1000&color=046C90&width=520&lines=Hi+there!+%F0%9F%98%8E+This+is+Tianle+Yuan's+Github!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=FC011A)
 
