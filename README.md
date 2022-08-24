@@ -6,5 +6,17 @@
 **Languages and Tools:**  
 
 <code><img src="/Svg/html5.svg" alt="bash" width="30" height="40"/></code>
-
-
+<code><img src="/Svg/c.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/css3.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/github.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/linux.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/mysql.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/python.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/visualstudio.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/visual-studio-code.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/arduino.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-matlab.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-blender-3d.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-unity.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/lr.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/vim.svg" alt="bash" width="30" height="40"/></code>
