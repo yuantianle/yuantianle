@@ -20,3 +20,8 @@
 <code><img src="/Svg/icons8-unity.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/lr.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/vim.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-bash.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-opencv.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-qt.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-opengl.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/icons8-webgl.svg" alt="bash" width="30" height="40"/></code>
