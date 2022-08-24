@@ -11,7 +11,7 @@
 <code><img src="/Svg/github.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/linux.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/mysql.svg" alt="bash" width="30" height="40"/></code>
-<code><img src="/Svg/python.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/python.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/visualstudio.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/visual-studio-code.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/arduino.svg" alt="bash" width="30" height="40"/></code>
