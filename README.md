@@ -6,8 +6,8 @@
 **Languages and Tools:**  
 
 <code><img src="/Svg/html5.svg" alt="bash" width="30" height="40"/></code>
-<code><img src="/Svg/c.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/css3.svg" alt="bash" width="30" height="40"/></code>
+<code><img src="/Svg/c.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/github.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/linux.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/mysql.svg" alt="bash" width="30" height="40"/></code>
