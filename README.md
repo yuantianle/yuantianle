@@ -6,8 +6,8 @@
 **Languages and Tools:**  
 
 <code><img src="/Svg/c.svg" alt="bash" width="35" height="35"/></code>
-<code><img src="/Svg/visualstudio.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/visual-studio-code.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/visualstudio.svg" alt="bash" width="35" height="35"/></code>
+<code><img src="/Svg/visual-studio-code.svg" alt="bash" width="35" height="35"/></code>
 <code><img src="/Svg/opengl-blue.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/icons8-webgl.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/icons8-opencv.svg" alt="bash" width="40" height="40"/></code>
@@ -23,7 +23,7 @@
 <code><img src="/Svg/icons8-bash.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/github.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/mysql.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/arduino.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/arduino.svg" alt="bash" width="35" height="35"/></code>
 <code><img src="/Svg/lr.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/docker-svgrepo-com.svg" alt="bash" width="40" height="40"/></code>
 
