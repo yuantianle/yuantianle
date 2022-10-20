@@ -5,7 +5,7 @@
 
 **Languages and Tools:**  
 
-<code><img src="/Svg/c.svg" alt="bash" width="30" height="30"/></code>
+<code><img src="/Svg/c.svg" alt="bash" width="35" height="35"/></code>
 <code><img src="/Svg/visualstudio.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/visual-studio-code.svg" alt="bash" width="30" height="40"/></code>
 <code><img src="/Svg/opengl-blue.svg" alt="bash" width="30" height="40"/></code>
