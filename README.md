@@ -16,8 +16,8 @@
 <code><img src="/Svg/icons8-blender-3d.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/icons8-unity.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/python.svg" alt="bash" width="35" height="35"/></code>
-<code><img src="/Svg/html5.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/css3.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/html5.svg" alt="bash" width="35" height="40"/></code>
+<code><img src="/Svg/css3.svg" alt="bash" width="35" height="40"/></code>
 <code><img src="/Svg/linux.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/vim.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/icons8-bash.svg" alt="bash" width="40" height="40"/></code>
