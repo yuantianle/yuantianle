@@ -3,7 +3,8 @@
 
 [![Tianle Yuan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=yuantianle&show_icons=true&theme=vision-friendly-dark&bg_color=20,2D2D2D,3B3652,5D4CAA)](http://yuantianle.com)
 
-**Recently Learning list**
+**Recently Learning list:**
+
 - Golang
   - Repo: https://github.com/yuantianle/Go_RESTful_API-ING-Feb2023
   - Resources: https://go.dev/doc/tutorial/web-service-gin
