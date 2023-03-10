@@ -3,6 +3,14 @@
 
 [![Tianle Yuan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=yuantianle&show_icons=true&theme=vision-friendly-dark&bg_color=20,2D2D2D,3B3652,5D4CAA)](http://yuantianle.com)
 
+**Recently Learning list**
+- Golang
+  - 
+- Vulkan
+  - Repo: 
+  - https://vkguide.dev/docs/introduction/vulkan_overview/
+- AWS
+
 **Languages and Tools:**  
 
 <code><img src="/Svg/c.svg" alt="bash" width="35" height="35"/></code>
