@@ -5,13 +5,13 @@
 
 **Recently Learning list:**
 
-- Golang
+- **Golang**
   - Repo: https://github.com/yuantianle/Go_RESTful_API-ING-Feb2023
   - Resources: https://go.dev/doc/tutorial/web-service-gin
-- Vulkan
+- **Vulkan**
   - Repo: 
   - Resources: https://vkguide.dev/docs/introduction/vulkan_overview/
-- AWS
+- **AWS**
   - Location: https://yuantianle.github.io/2_Software_Engineering/AWS/
   - Resources: https://digitalcloud.training/all-access/
 
