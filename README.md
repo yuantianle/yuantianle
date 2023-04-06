@@ -43,12 +43,12 @@
 <code><img src="/Svg/ChatGPT_logo.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/boost-logo.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/CGAL.png" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/Git_icon.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/Github_action.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/AWS-Logo.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/Git_icon.png" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/Github_action.png" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/AWS-Logo.png" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/markdown-svgrepo-com.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/expressjs.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/comsol.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/rest_api.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/nodejs.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/comsol.png" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/rest_api.png" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/nodejs.jpg" alt="bash" width="40" height="40"/></code>
 
