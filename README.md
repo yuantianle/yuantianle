@@ -42,7 +42,7 @@
 <code><img src="/Svg/Editorx.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/ChatGPT_logo.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/boost-logo.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="/Svg/CGAL" alt="bash" width="40" height="40"/></code>
+<code><img src="/Svg/CGAL.png" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/Git_icon.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/Github_action.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/AWS-Logo.svg" alt="bash" width="40" height="40"/></code>
