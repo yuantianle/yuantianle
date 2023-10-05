@@ -1,6 +1,6 @@
 [![chill-mario-pixel-moewalls-com](https://github.com/yuantianle/yuantianle/assets/61530469/02ae21f1-fb25-453a-924c-f1b7e3d8f31c)](https://pixeljeff1995.artstation.com/)
 <!--![pixel-jeff-mario](https://github.com/yuantianle/yuantianle/assets/61530469/a81b309b-449f-4aa0-b0a8-92df432ce357)-->
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=2000&color=388bfd&width=900&vCenter=true&height=50&lines=HOLA!+%F0%9F%98%8E+This+is+Tianle+Yuan's+Github!)](https://git.io/typing-svg)  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=40&pause=2000&color=388bfd&width=900&vCenter=true&height=60&lines=HOLA!+%F0%9F%98%8E+This+is+Tianle+Yuan's+Github!)](https://git.io/typing-svg)  
 <picture><img src="https://github.com/yuantianle/yuantianle/assets/61530469/9b8d8d7a-292e-4376-b5f4-c50b7cda4a93" width = 110px align="right" style="margin-right: 20px;"></picture>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuantianle/)
