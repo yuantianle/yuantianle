@@ -19,7 +19,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 ## Scientific Visualization
 - [Thermal Dynamics on Mesh Surface (FEM)](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)
 - [Sketch Art Stylization Based onCurvature Tensor]
-- [Ordinary OOD]
+- Numerical Modeling for ODE | <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code> | <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code> | <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>
 
 ## Shader Projects
 - Collection of GLSL Effects | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | [Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)
