@@ -11,7 +11,22 @@ I'm a Software Developer deeply passionate about crafting immersive Game Develop
 
 Simultaneously, my academic endeavors led me to roles like Graduate Teaching Assistant and Research Software Developer at Oregon State University, where I shared knowledge and contributed to groundbreaking projects in real-time 3D crack generation frameworks and regex password decryption libraries. Venture into my GitHub repository, where innovation and captivating projects await. Whether you're a developer, a gaming enthusiast, or simply curious about the fusion of technology and creativity, explore these repositories and witness the evolution of my skills and passion. Let's embark on this software development adventure together!
 
-# Projects
+# Open Source Projects
+
+## Current Game Project
+- [This is My Oregon (unannounced)]
+
+## Scientific Visualization
+- [Thermal Dynamics on Mesh Surface (FEM)](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)
+- [Sketch Art Stylization Based onCurvature Tensor]
+- [Ordinary OOD]
+
+## Shader Projects
+- Collection of GLSL Effects | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | [Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)
+- Three.js 3D Space | <code>[Demo](https://github.com/yuantianle/yuantianle/assets/61530469/60d96a1b-d27e-4c2c-ab45-76264c4f8d29
+)</code> <code>[Link](https://yuantianle.com/Portfolio/)</code> | [Source Code](https://github.com/yuantianle/PersonalWebsite-ING-July2022/blob/main/Portfolio/assets/js/Three_js/my_script.js)
+- Parallel Mapping Lighting GUI | <> | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/178616098-9a7dff5d-c318-4593-b01f-c90748790366.png)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/178616091-f88c00d3-c906-4748-8107-41d54f237e16.png)</code> | [Source Code](https://github.com/yuantianle/ShaderMan-ING-May2022)
+- <code>[Demo]()</code>
 
 <!--**Recently Learning list:**
 
