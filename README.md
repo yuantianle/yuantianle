@@ -11,6 +11,8 @@ I'm a Software Developer deeply passionate about crafting immersive Game Develop
 
 Simultaneously, my academic endeavors led me to roles like Graduate Teaching Assistant and Research Software Developer at Oregon State University, where I shared knowledge and contributed to groundbreaking projects in real-time 3D crack generation frameworks and regex password decryption libraries. Venture into my GitHub repository, where innovation and captivating projects await. Whether you're a developer, a gaming enthusiast, or simply curious about the fusion of technology and creativity, explore these repositories and witness the evolution of my skills and passion. Let's embark on this software development adventure together!
 
+<picture><img src="https://github.com/yuantianle/yuantianle/assets/61530469/7151d445-47b0-4480-912b-3557f4af11f3" width = 100% height = 4px align="center"></picture>
+
 # Projects
 
 ## Current Game Projects
@@ -90,6 +92,8 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 <code><img src="/Svg/comsol.png" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/rest_api.png" alt="bash" width="40" height="40"/></code>
 <code><img src="/Svg/nodejs.jpg" alt="bash" width="40" height="40"/></code>-->
+
+<picture><img src="https://github.com/yuantianle/yuantianle/assets/61530469/7151d445-47b0-4480-912b-3557f4af11f3" width = 100% height = 4px align="center"></picture>
 
 # Skills
 
