@@ -34,14 +34,9 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 ## Shader Projects
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#0f9d58}{\textsf{}}$|||
-
-- Collection of GLSL Effects | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | [Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)
-- Three.js 3D Space | <code>[Demo](https://github.com/yuantianle/yuantianle/assets/61530469/60d96a1b-d27e-4c2c-ab45-76264c4f8d29
-)</code> <code>[Link](https://yuantianle.com/Portfolio/)</code> | [Source Code](https://github.com/yuantianle/PersonalWebsite-ING-July2022/blob/main/Portfolio/assets/js/Three_js/my_script.js)
-- Parallel Mapping Lighting GUI | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/178616098-9a7dff5d-c318-4593-b01f-c90748790366.png)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/178616091-f88c00d3-c906-4748-8107-41d54f237e16.png)</code> | [Source Code](https://github.com/yuantianle/ShaderMan-ING-May2022)
-- <code>[Demo]()</code>
-
+| $\textcolor{#0f9d58}{\textsf{Collection of GLSL Effects}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | <code>[Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)</code>|
+| $\textcolor{#0f9d58}{\textsf{Three.js 3D Space}}$ | <code>[Demo](https://github.com/yuantianle/yuantianle/assets/61530469/60d96a1b-d27e-4c2c-ab45-76264c4f8d29)</code> <code>[Link](https://yuantianle.com/Portfolio/)</code> | <code>[Source Code](https://github.com/yuantianle/PersonalWebsite-ING-July2022/blob/main/Portfolio/assets/js/Three_js/my_script.js)</code>|
+| $\textcolor{#0f9d58}{\textsf{Parallel Mapping Lighting GUI}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/178616098-9a7dff5d-c318-4593-b01f-c90748790366.png)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/178616091-f88c00d3-c906-4748-8107-41d54f237e16.png)</code> | <code>[Source Code](https://github.com/yuantianle/ShaderMan-ING-May2022)</code>|
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
