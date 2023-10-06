@@ -19,7 +19,8 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#f15b40}{\textsf{Unity 2D Adventure Game (Unannounced)}}$| - | - |
+|$\textcolor{#f15b40}{\textsf{Unity 2D Adventure Game (Contributing)}}$| - | - |
+|$\textcolor{#f15b40}{\textsf{UE5 ESP32 Flight Simulator (Unannounced)}}$| - | - |
 
 ## Scientific Visualization
 
@@ -63,7 +64,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#d671ab}{\textsf{Weather Forcast}}$|||
+|$\textcolor{#d671ab}{\textsf{E-paper weather forecast system}}$| <code>[Demo1](https://user-images.githubusercontent.com/61530469/270066044-c0639db4-fb45-4558-86dd-929992cacf69.jpg)</code> <code>[Demo2](https://github.com/yuantianle/ESP32_Learning-BC-Aug2022/blob/main/Project_7_Epaper_ProfessionalWeather/Project_7_4_Lego_Compression/%E5%9B%BE%E7%89%87_20231005232021.jpg?raw=true)</code> <code>[Demo3](https://github.com/yuantianle/ESP32_Learning-BC-Aug2022/blob/main/Project_7_Epaper_ProfessionalWeather/Project_7_4_Lego_Compression/%E5%9B%BE%E7%89%87_20231005232039.jpg?raw=true)</code> <code>[Demo4](https://github.com/yuantianle/ESP32_Learning-BC-Aug2022/blob/main/Project_7_Epaper_ProfessionalWeather/Project_7_5_Lighting_Component/%E5%9B%BE%E7%89%87_20231005232143.jpg?raw=true)</code> |<code>[Source Code](https://github.com/yuantianle/ESP32_Learning-BC-Aug2022)</code>|
 
 <!--**Recently Learning list:**
 
