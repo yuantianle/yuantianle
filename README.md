@@ -19,15 +19,26 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#04b87b}{\textsf{This is My Oregon (Unannounced)}}$|||
+|$\textcolor{#f15b40}{\textsf{Unity 2D Adventure Game (Unannounced)}}$| - | - |
 
 ## Scientific Visualization
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#f78166}{\textsf{Thermal Dynamics on Mesh Surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
-|$\textcolor{#f78166}{\textsf{Sketch Art Stylization Based onCurvature Tensor}}$|||
-|$\textcolor{#f78166}{\textsf{Numerical Modeling for ODE}}$|<code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>|
+|$\textcolor{#fdb64e}{\textsf{Cook Tarrance Specular}}$|||
+|$\textcolor{#fdb64e}{\textsf{Oren nayer Diffusion}}$|||
+|$\textcolor{#fdb64e}{\textsf{Grey Body Shadowing}}$|||
+|$\textcolor{#fdb64e}{\textsf{Voronoi Subdivision}}$|||
+|$\textcolor{#fdb64e}{\textsf{Parametric measurement for Newtonian fluid flow}}$|||
+|$\textcolor{#fdb64e}{\textsf{Picture Info Redistribution}}$|||
+|$\textcolor{#fdb64e}{\textsf{Linear Rotation-Invariant Method for Meshes Deformation}}$|||
+|$\textcolor{#fdb64e}{\textsf{Sketch Art Stylization Based on Curvature Tensor}}$|||
+|$\textcolor{#fdb64e}{\textsf{Heat Diffusion on 3D surface}}$|||
+|$\textcolor{#fdb64e}{\textsf{Ray Tracing}}$|||
+|$\textcolor{#fdb64e}{\textsf{Thermal Dynamics on 2D Mesh Surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
+|$\textcolor{#fdb64e}{\textsf{Mesh Smoothing and Mesh subdivision}}$|||
+|$\textcolor{#fdb64e}{\textsf{3D Texture Synthesis}}$|||
+|$\textcolor{#fdb64e}{\textsf{Numerical Modeling for ODE}}$|<code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>|
 
 <!-- - Thermal Dynamics on Mesh Surface (FEM) | <code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>
 - Sketch Art Stylization Based onCurvature Tensor | 
@@ -36,13 +47,23 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 ## Shader Projects
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-| $\textcolor{#0f9d58}{\textsf{Collection of GLSL Effects}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | <code>[Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)</code>|
-| $\textcolor{#0f9d58}{\textsf{Three.js 3D Space}}$ | <code>[Demo](https://github.com/yuantianle/yuantianle/assets/61530469/60d96a1b-d27e-4c2c-ab45-76264c4f8d29)</code> <code>[Link](https://yuantianle.com/Portfolio/)</code> | <code>[Source Code](https://github.com/yuantianle/PersonalWebsite-ING-July2022/blob/main/Portfolio/assets/js/Three_js/my_script.js)</code>|
-| $\textcolor{#0f9d58}{\textsf{Parallel Mapping Lighting GUI}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/178616098-9a7dff5d-c318-4593-b01f-c90748790366.png)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/178616091-f88c00d3-c906-4748-8107-41d54f237e16.png)</code> | <code>[Source Code](https://github.com/yuantianle/ShaderMan-ING-May2022)</code>|
+| $\textcolor{#aed361}{\textsf{Three.js 3D Space}}$ | <code>[Demo](https://github.com/yuantianle/yuantianle/assets/61530469/60d96a1b-d27e-4c2c-ab45-76264c4f8d29)</code> <code>[Link](https://yuantianle.com/Portfolio/)</code> | <code>[Source Code](https://github.com/yuantianle/PersonalWebsite-ING-July2022/blob/main/Portfolio/assets/js/Three_js/my_script.js)</code>|
+| $\textcolor{#aed361}{\textsf{Collection of GLSL Effects}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Water_Flowing/Water_Flowing.gif)</code> <code>[Demo2](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo3](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Manga_Stylization/Manga_Stylization.gif)</code ><code>[Demo4](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/tree/main/Foggy_Building)</code> <code>[Demo5](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Television_Signal/Television_Signal.gif)</code> | <code>[Source Code](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022)</code>|
+| $\textcolor{#aed361}{\textsf{Parallel Mapping Lighting GUI}}$ | <code>[Demo1](https://github.com/yuantianle/Shader_Effect_Design-BC-Mar2022/blob/main/Parallel_Mapping/Parallel_Mapping.gif)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/178616098-9a7dff5d-c318-4593-b01f-c90748790366.png)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/178616091-f88c00d3-c906-4748-8107-41d54f237e16.png)</code> | <code>[Source Code](https://github.com/yuantianle/ShaderMan-ING-May2022)</code>|
+|$\textcolor{#aed361}{\textsf{OpenGL Demos}}$|||
+
+## Full-Stack Projects
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#f78166}{\textsf{}}$|||
+|$\textcolor{#70c3ed}{\textsf{API mock}}$|||
+
+
+## Arduino Projects
+
+|Topics|Demos|Source Code|
+|:-|:-|:-|
+|$\textcolor{#d671ab}{\textsf{Weather Forcast}}$|||
 
 <!--**Recently Learning list:**
 
