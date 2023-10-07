@@ -33,6 +33,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 |$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion and Cook tarrance specular}}$|||
 |$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$|||
 |$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$|||
+|$\textcolor{#fdb64e}{\textsf{Thermal dynamics on 2D mesh surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
 |$\textcolor{#fdb64e}{\textsf{Parametric measurement for Newtonian fluid flow}}$|||
 |$\textcolor{#fdb64e}{\textsf{Picture info redistribution}}$|||
 |$\textcolor{#fdb64e}{\textsf{Linear rotation-invariant method for meshes deformation}}$|<code>[Demo](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main#transformation-results)</code>|<code>[Source Code](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project4_LinearRotationInvariant_%26_MeshesDeformation/SourceCode/Final)</code>|
@@ -43,7 +44,6 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 |$\textcolor{#fdb64e}{\textsf{Inverse Kenematic}}$|<code>[Demo]()</code>||
 |$\textcolor{#fdb64e}{\textsf{2D texture synthesis}}$|<code>[Demo]()</code>||
 |$\textcolor{#fdb64e}{\textsf{FoG and DoG filters}}$|<code>[Demo]()</code>||
-|$\textcolor{#fdb64e}{\textsf{Thermal dynamics on 2D mesh surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
 |$\textcolor{#fdb64e}{\textsf{Numerical modeling for ODE}}$|<code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>|
 
 <!-- - Thermal Dynamics on Mesh Surface (FEM) | <code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>
