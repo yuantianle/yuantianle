@@ -42,8 +42,8 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 |$\textcolor{#fdb64e}{\textsf{Mesh subdivision and 3D checkboard texturing}}$|<code>[Demo1](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main#11-mesh-subdivision)</code><code>[Demo2](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main#12-3d-check-board-texturing)</code>|<code>[Source Code](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project1_MeshSubdivision_%26_3DCheckBoardTexturing/SourceCode/project1)</code>|
 |$\textcolor{#fdb64e}{\textsf{Ray tracing}}$|<code>[Demo](https://github.com/yuantianle/Ray_Tracing-Sep2021/raw/main/Result.png)</code>|<code>[Source Code](https://github.com/yuantianle/Ray_Tracing-Sep2021)</code>|
 |$\textcolor{#fdb64e}{\textsf{Inverse Kenematic}}$|<code>[Demo]()</code>||
-|$\textcolor{#fdb64e}{\textsf{2D texture synthesis}}$|<code>[Demo]()</code>||
-|$\textcolor{#fdb64e}{\textsf{FoG and DoG filters}}$|<code>[Demo]()</code>||
+|$\textcolor{#fdb64e}{\textsf{2D texture synthesis}}$|<code>[Demo](https://github.com/yuantianle/Texture_Synthesis-Sep2021/raw/main/Collection_of_Results.png)</code>|<code>[Source Code](https://github.com/yuantianle/Texture_Synthesis-Sep2021)</code>|
+|$\textcolor{#fdb64e}{\textsf{FoG and DoG filters}}$|<code>[-]()</code>||
 |$\textcolor{#fdb64e}{\textsf{Numerical modeling for ODE}}$|<code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>|
 
 <!-- - Thermal Dynamics on Mesh Surface (FEM) | <code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>
