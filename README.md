@@ -26,8 +26,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#fdb64e}{\textsf{Cook tarrance specular}}$|||
-|$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion}}$|||
+|$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion and Cook tarrance specular}}$|||
 |$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$|||
 |$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$|||
 |$\textcolor{#fdb64e}{\textsf{Parametric measurement for Newtonian fluid flow}}$|||
