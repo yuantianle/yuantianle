@@ -31,7 +31,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion and Cook tarrance specular}}$|||
+|$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion and Cook tarrance specular}}$|<code>[Demo1](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-1-oren-nayer-diffusion)</code> <code>[Demo2](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-2-cook-tarrance-specular)</code>|<code>[Source Code](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022/tree/main/Source%20Code)</code>|
 |$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$|||
 |$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$||<code>[Source Code](https://github.com/yuantianle/Voronoi_Subdivision-Jan2022)</code>|
 |$\textcolor{#fdb64e}{\textsf{Thermal dynamics on 2D mesh surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
@@ -44,7 +44,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 |$\textcolor{#fdb64e}{\textsf{Ray tracing}}$|<code>[Demo](https://github.com/yuantianle/Ray_Tracing-Sep2021/raw/main/Result.png)</code>|<code>[Source Code](https://github.com/yuantianle/Ray_Tracing-Sep2021)</code>|
 |$\textcolor{#fdb64e}{\textsf{Inverse kenematics}}$|<code>[Demo1](https://github.com/yuantianle/Inverse_Kenematics-Dec2020#ccd-cyclic-coordinate-descent-method)</code> <code>[Demo2](https://github.com/yuantianle/Inverse_Kenematics-Dec2020#svd-singular-value-decomposition-method)</code> <code>[Demo3](https://github.com/yuantianle/Inverse_Kenematics-Dec2020#brute-force-test)</code>|<code>[Source Code](https://github.com/yuantianle/Inverse_Kenematic-Dec2020)</code>|
 |$\textcolor{#fdb64e}{\textsf{2D texture synthesis}}$|<code>[Demo](https://github.com/yuantianle/Texture_Synthesis-Sep2021/raw/main/Collection_of_Results.png)</code>|<code>[Source Code](https://github.com/yuantianle/Texture_Synthesis-Sep2021)</code>|
-|$\textcolor{#fdb64e}{\textsf{FoG and DoG filters}}$|<code>[-]()</code>||
+|$\textcolor{#fdb64e}{\textsf{Varient filters & LoG/DoG filters}}$|<code>[Demo1]()</code> <code>[Demo1]()</code> <code>[Demo1]()</code> <code>[Demo1]()</code> <code>[Demo1]()</code>|<code>[Source Code](https://github.com/yuantianle/Varient_LoG_DoG_filters-Oct2020/blob/main/Source%20Code/Fragment.frag)</code>|
 |$\textcolor{#fdb64e}{\textsf{Numerical modeling for ODE}}$|<code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Stability_Region_of_Trapezoidal_Method.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Logistic_Growth_Model.png)</code>  <code>[Demo](https://github.com/yuantianle/Numerical_Modeling-Oct2020/raw/main/Demo_Images/Heat_Equation_ODE32_45_Solutions.png)</code> | <code>[Source Code](https://github.com/yuantianle/Numerical_Modeling-Oct2020/tree/main)</code>|
 
 <!-- - Thermal Dynamics on Mesh Surface (FEM) | <code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>
