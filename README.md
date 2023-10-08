@@ -32,8 +32,8 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 |Topics|Demos|Source Code|
 |:-|:-|:-|
 |$\textcolor{#fdb64e}{\textsf{Oren Nayer diffusion and Cook Tarrance specular}}$|<code>[Demo1](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-1-oren-nayer-diffusion)</code> <code>[Demo2](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-2-cook-tarrance-specular)</code>|<code>[Source](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022/tree/main/Source%20Code)</code>|
-|$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$|||
-|$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$||<code>[Source](https://github.com/yuantianle/Voronoi_Subdivision-Jan2022)</code>|
+|$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$||$\textcolor{grey}{\textsf{closed source}}$|
+|$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$||$\textcolor{grey}{\textsf{closed source}}$|
 |$\textcolor{#fdb64e}{\textsf{Thermal dynamics on 2D mesh surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
 |$\textcolor{#fdb64e}{\textsf{Parametric measurement for Newtonian fluid flow}}$|<code>[Demo1](https://user-images.githubusercontent.com/61530469/273417725-1e946d18-e9a2-435b-be69-394430ad09a4.mp4)</code> <code>[Demo2](https://user-images.githubusercontent.com/61530469/273417628-470ac685-789b-45b0-a1d1-5c4cc40e950b.gif)</code> <code>[Demo3](https://user-images.githubusercontent.com/61530469/273417666-eeeff034-1be6-41a0-aa33-665a266ec209.png)</code>| <code>[Source](https://github.com/yuantianle/Newtonian_Fluid_Flow-Jan2021/tree/main/SourceCode)</code>|
 |$\textcolor{#fdb64e}{\textsf{Picture info redistribution}}$|||
