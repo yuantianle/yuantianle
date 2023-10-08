@@ -31,7 +31,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#fdb64e}{\textsf{Oren nayer diffusion and Cook tarrance specular}}$|<code>[Demo1](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-1-oren-nayer-diffusion)</code> <code>[Demo2](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-2-cook-tarrance-specular)</code>|<code>[Source Code](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022/tree/main/Source%20Code)</code>|
+|$\textcolor{#fdb64e}{\textsf{Oren Nayer diffusion and Cook Tarrance specular}}$|<code>[Demo1](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-1-oren-nayer-diffusion)</code> <code>[Demo2](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-2-cook-tarrance-specular)</code>|<code>[Source Code](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022/tree/main/Source%20Code)</code>|
 |$\textcolor{#fdb64e}{\textsf{Greybody shadowing}}$|||
 |$\textcolor{#fdb64e}{\textsf{Voronoi subdivision}}$||<code>[Source Code](https://github.com/yuantianle/Voronoi_Subdivision-Jan2022)</code>|
 |$\textcolor{#fdb64e}{\textsf{Thermal dynamics on 2D mesh surface (FEM)}}$|<code>[Demo](https://yuantianle.github.io/1_Computer_Graphics/Science/Thermal/#thermal-dynamics)</code>| $\textcolor{grey}{\textsf{closed source}}$ |
