@@ -31,10 +31,6 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 ## Scientific Visualization
 
-<code>[<img src="https://github.com/yuantianle/yuantianle/assets/61530469/f5b3cef9-3828-4399-bd37-1085bb171280" width = 63px align="center">](https://github.com/yuantianle/Inverse_Kenematics-Dec2020/blob/main/Inverse_Kenematic_Report.pdf)</code>
-
-
-
 |Topics|Demos|Source Code|
 |:-|:-|:-|
 |$\textcolor{#fdb64e}{\textsf{Oren Nayer diffusion and Cook Tarrance specular}}$|<code>[Demo1](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-1-oren-nayer-diffusion)</code> <code>[Demo2](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022#project-2-cook-tarrance-specular)</code>|<code>[Source](https://github.com/yuantianle/Orennayer_and_Cooktarrance_Light-Mar2022/tree/main/Source%20Code)</code>|
@@ -70,8 +66,7 @@ Simultaneously, my academic endeavors led me to roles like Graduate Teaching Ass
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#70c3ed}{\textsf{API mocking}}$|||
-
+|$\textcolor{#70c3ed}{\textsf{Password crackStation}}$|<code>[<img src="https://github.com/yuantianle/yuantianle/assets/61530469/f5b3cef9-3828-4399-bd37-1085bb171280" width = 63px align="center">](https://github.com/yuantianle/CrackStation)</code>|<code>[Source Code](https://github.com/yuantianle/CrackStation/tree/main/Sources/CrackStation)</code>|
 
 ## Arduino Projects
 
