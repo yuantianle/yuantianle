@@ -71,7 +71,7 @@ Simultaneously, my previous academic endeavors led me to roles like Graduate Tea
 
 |Topics|Demos|Source Code|
 |:-|:-|:-|
-|$\textcolor{#70c3ed}{\textsf{PhotoGarage}}$|<code>[Demo1]<img src="https://github.com/yuantianle/PhotographGarage-ING-Apr2024/blob/main/Demos/Snipaste_2025-03-20_20-06-37.png" width = 63px align="center">(https://github.com/yuantianle/CrackStation)</code>|<code>[Source Code](https://github.com/yuantianle/PhotographGarage-ING-Apr2024/tree/main)</code>|
+|$\textcolor{#70c3ed}{\textsf{PhotoGarage}}$|<code>[Demo1](https://github.com/yuantianle/PhotographGarage-ING-Apr2024/blob/main/Demos/Snipaste_2025-03-20_20-06-37.png)</code><code>[Link](https://album.yuantianle.com/)</code>|<code>[Source Code](https://github.com/yuantianle/PhotographGarage-ING-Apr2024/tree/main)</code>|
 |$\textcolor{#70c3ed}{\textsf{Password crackStation}}$|<code>[<img src="https://github.com/yuantianle/yuantianle/assets/61530469/f5b3cef9-3828-4399-bd37-1085bb171280" width = 63px align="center">](https://github.com/yuantianle/CrackStation)</code>|<code>[Source Code](https://github.com/yuantianle/CrackStation/tree/main/Sources/CrackStation)</code>|
 
 ## Arduino Projects
