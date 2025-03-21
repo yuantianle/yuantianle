@@ -12,10 +12,10 @@ Hi there 👋 I'm Tianle (天樂), a passionate **Full-Stack & Computer Graphics
 My journey has been an exhilarating blend of **real-time rendering**, **game development**, and **full-stack engineering**. I thrive on turning ideas into interactive visuals — whether it’s through advanced **VFX**, **WebGL experiments**, or **backend**-powered intelligent systems.
 
 🛠 In recent roles, I’ve:
-- Contributed to Domino’s _Manager Order Override Auth_, _Non-taxable Product Exemption_, _AI-powered makeline-dispatch-Opt Service Construction_, _Parmesan Stuffed Crust Product_, and _Sales Forecast Override_, across 4,000+ stores nationwide.
-- Led technical art efforts as a **Technical Art Lead**, crafting real-time VFX, shaders, and optimizing Unity pipelines using **URP**, **Shader Graph**, and **ECS/job system**.
-- Designed a **3D math visualization app** with marching cubes and Three.js, showcasing real-time WebGL graphics.
-- Built physically based simulations for **3D cracks and multi-physics models** in C++/GLSL during research at OSU.
+- Contributed to [Domino’s](https://www.dominos.com/en/) _Manager Order Override Auth_, _Non-taxable Product Exemption_, _AI-powered makeline-dispatch-Opt Service Construction_, _Parmesan Stuffed Crust Product_, and _Sales Forecast Override_, across 4,000+ stores nationwide.
+- Supported a [Unity Game](https://www.linkedin.com/posts/yupeng-qin-56334b173_i-am-currently-seeking-a-unity-developer-activity-7175719968137756673-FHlv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaDCvsBb-J9qFGjgvr5zPCGJSwTxsqOD-g) technical art efforts as a Technical Art Lead, crafting real-time VFX, shaders, and optimizing Unity pipelines using URP, Shader/VFX/Anim Graphs, and ECS/job system.
+- Designed a [3D math visualization app](https://marcus-gc.vercel.app/) with marching cubes and Three.js, showcasing real-time WebGL graphical calculator.
+- Built physically based simulations for 3D cracks and multi-physics models in C++/GLSL during research at Oregon State University.
 
 Outside of code, I’m all about expressing creativity and discipline:
 🎶 I play music with my Fender Professional, 📷 capture the world through my Canon EF red rings, and 🥋 train in **Shotokan Karate (7-kyu)** to challenge both body and mind (OSU!).
