@@ -9,11 +9,12 @@
 
 Hi there 👋 I'm Tianle (天樂), a passionate **Full-Stack & Computer Graphics Engineer** blending code, creativity, and curiosity into immersive digital experiences.
 
-My journey has been an exhilarating blend of **real-time rendering**, **game development**, and **full-stack engineering**. I thrive on turning ideas into interactive visuals — whether it’s through advanced **VFX**, **WebGL experiments**, or **backend**-powered intelligent systems.
+My journey has been an exhilarating blend of **real-time rendering**, **game development**, and **full-stack engineering**. I thrive on turning ideas into interactive visuals — whether it’s through advanced **Scientific Visualization**, **CG Rendering Pipelines**, **WebGL Experiments**, or **Full-stack**-powered intelligent systems.
 
 🛠 In recent roles, I’ve:
 - Contributed to [Domino’s](https://www.dominos.com/en/) _Manager Order Override Auth_, _Non-taxable Product Exemption_, _AI-powered makeline-dispatch-Opt Service Construction_, _Parmesan Stuffed Crust Product_, and _Sales Forecast Override_, across 4,000+ stores nationwide.
 - Supported a [Unity Game](https://www.linkedin.com/posts/yupeng-qin-56334b173_i-am-currently-seeking-a-unity-developer-activity-7175719968137756673-FHlv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaDCvsBb-J9qFGjgvr5zPCGJSwTxsqOD-g) technical art efforts as a Technical Art Lead, crafting real-time VFX, shaders, and optimizing Unity pipelines using URP, Shader/VFX/Anim Graphs, and ECS/job system.
+- Published a [Digital Albumn](https://album.yuantianle.com/) based on single-page application, Oauth2 encryptions, and advanced AWS services
 - Designed a [3D math visualization app](https://marcus-gc.vercel.app/) with marching cubes and Three.js, showcasing real-time WebGL graphical calculator.
 - Built physically based simulations for 3D cracks and multi-physics models in C++/GLSL during research at Oregon State University.
 
