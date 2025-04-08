@@ -33,8 +33,8 @@ If you're into **real-time graphics**, **visual computing**, or just love the fu
 
 |Topics|Source|
 |:-|:-|
-|$\textcolor{#ebc7d7}{\textsf{Unity Shader Graph Cheat sheets}}$| [www.cheatsheets.zip](https://cheatsheets.zip/unity-shader-graph.html)|
-|$\textcolor{#ebc7d7}{\textsf{SadJoy game consultant}}$| [SadJoy](https://github.com/SadJoyStudio)|
+|$\textcolor{#ebc7d7}{\textsf{Unity Shader Graph Cheat Sheets}}$| [www.cheatsheets.zip](https://cheatsheets.zip/unity-shader-graph.html)|
+|$\textcolor{#ebc7d7}{\textsf{SadJoy Game Consultant}}$| [SadJoy](https://github.com/SadJoyStudio)|
 
 # Projects
 
