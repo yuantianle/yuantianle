@@ -33,8 +33,8 @@ If you're into **real-time graphics**, **visual computing**, or just love the fu
 
 |Topics|Source|Contributions|
 |:-|:-|:-|
-|$\textcolor{#ebc7d7}{\textsf{Godot Engine}}$| [Godot](https://github.com/godotengine/godot) | <code>[PRs](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Ayuantianle)</code>|
-|$\textcolor{#ebc7d7}{\textsf{Unity Shader Graph Cheat Sheets}}$| [www.cheatsheets.zip](https://cheatsheets.zip/unity-shader-graph.html)| <code>[PRs](https://github.com/Fechin/reference/pulls?q=is%3Apr+author%3Ayuantianle+)</code>|
+|$\textcolor{#ebc7d7}{\textsf{Godot Engine}}$| [Godot](https://github.com/godotengine) | <code>[Engine Contributions](https://github.com/godotengine/godot/pulls?q=is%3Apr+author%3Ayuantianle)</code> <code>[Demo Contributions](https://github.com/godotengine/godot-demo-projects/pulls/yuantianle)</code>|
+|$\textcolor{#ebc7d7}{\textsf{Unity Shader Graph Cheat Sheets}}$| [www.cheatsheets.zip](https://cheatsheets.zip/unity-shader-graph.html)| <code>[Contributions](https://github.com/Fechin/reference/pulls?q=is%3Apr+author%3Ayuantianle+)</code>|
 |$\textcolor{#ebc7d7}{\textsf{SadJoy Game Consultant}}$| [SadJoy](https://github.com/SadJoyStudio)| <code>Closed source</code>|
 
 # Projects
