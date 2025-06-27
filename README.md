@@ -20,7 +20,7 @@ My journey has been an exhilarating blend of **real-time rendering**, **game dev
 - Built physically based simulations for 3D cracks and multi-physics models in C++/GLSL during research at Oregon State University.
 
 Outside of code, I’m all about expressing creativity and discipline:
-🎶 I play music with my Fender Professional, 📷 capture the world through my Canon EF red rings, and 🥋 train in **Shotokan Karate (7-kyu)** to challenge both body and mind (OSU!).
+🎶 I play music with my Fender Professional, 📷 capture the world through my Canon EF red rings, and 🥋 train in **Shotokan Karate (6-kyu)** to challenge both body and mind (OSU!).
 
 If you're into **real-time graphics**, **visual computing**, or just love the fusion of **tech and art**, feel free to explore my repositories. I'm always building something new — and sometimes a little geek — but always with passion.
 
